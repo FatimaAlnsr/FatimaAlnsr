@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @FatimaAlnsr
 - 👀 I’m interested in Web Develompent
-- 🌱 I’m currently learning TypeScript
-- 💞️ I’m looking For new Job
-- 👩‍🦱 My portfolio  https://fatimaalnsr.com
+- 🌱 I’m currently learning Angular
 - 📫 How to reach me / 973-38488553 || f.alnsr@gmail.com 
 
 
